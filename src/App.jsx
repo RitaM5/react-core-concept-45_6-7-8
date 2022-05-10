@@ -57,7 +57,7 @@ return(
 <div>
     <h1>count:{count}</h1>
     <button onClick={IncreaseCount}>Increase</button>
-    <button onClick={decreaseCount}>Increase</button>
+    <button onClick={decreaseCount}>decrease</button>
 </div>
 )
 } */
